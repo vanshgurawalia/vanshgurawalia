@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="420" height="120" viewBox="0 0 420 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Vansh Motion Badge">
+  <defs>
+    <linearGradient id="grad" x1="0" x2="1">
+      <stop offset="0%" stop-color="#ff7eb6"/>
+      <stop offset="50%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="420" height="120" rx="12" fill="#050507"/>
+
+  <g transform="translate(20,20)">
+    <text x="0" y="36" font-family="Inter, Arial" font-size="24" fill="#e6e9ef">motion & code</text>
+    <text x="0" y="60" font-family="Inter, Arial" font-size="14" fill="#9aa0a6">designer • c++ • ai/ml</text>
+  </g>
+
+  <!-- animated circular motif -->
+  <g transform="translate(338,60)">
+    <circle r="20" fill="none" stroke="url(#grad)" stroke-width="3" stroke-linecap="round" opacity="0.95">
+      <animate attributeName="stroke-dasharray" values="1 120;60 60;1 120" dur="3s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="360" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="6" fill="#fff">
+      <animate attributeName="r" values="4;8;4" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
