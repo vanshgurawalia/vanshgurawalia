@@ -4,8 +4,8 @@
 ---
 
 <p align="center">
-  <!-- Animated hero GIF -->
-  <img src="./assets/hero.gif" alt="Vansh - Motion Designer & Developer" width="780"/>
+  <!-- animated banner SVG -->
+  <img src="./assets/animated-banner.svg" alt="Vansh Animated Banner" width="900"/>
 </p>
 
 ---
@@ -13,7 +13,7 @@
 ### 🧩 About Me
 - crafting tools, models & motion — code that feels like cinema  
 - c++ logic with a designer’s eye  
-- ai/ml & data science explorations — practical, curious, relentless  
+- ai/ml & data science explorations — practical, curious, relentless
 
 ---
 
@@ -22,14 +22,13 @@
 `C++` • `Python` • `SQL`
 
 **Domains**  
-`AI/ML` • `Data Science`  
-`2D Game Dev` • `Motion Graphics / Editing`
+`AI/ML` • `Data Science` • `2D Game Dev` • `Motion Graphics / Editing`
 
 ---
 
 <p align="center">
-  <!-- Animated SVG badge -->
-  <img src="./assets/animated-badge.svg" alt="Animated Badge - Motion Designer" width="300"/>
+  <!-- animated badge SVG -->
+  <img src="./assets/animated-badge.svg" alt="Animated Badge - Motion Designer" width="320"/>
 </p>
 
 ---
@@ -44,9 +43,9 @@
 ---
 
 ### 🎨 What I’m Building
-- 📝 Habit Tracker (Web)  
-- 🤖 AI Girlfriend / Crush Chat Sim (Web)  
-- 🎮 Lightweight C++ Game Engine  
+- 📝 Habit Tracker (Web) — clean UX & smooth micro-interactions  
+- 🤖 AI Girlfriend / Crush Chat Sim (Web) — personality first, UI second  
+- 🎮 Lightweight C++ Game Engine — tight loops, tiny footprint  
 - 🧾 Resume Projects: Code Mentor, File Analyzer, CLI Habit Tracker
 
 ---
@@ -58,7 +57,7 @@
 ---
 
 ### 🔗 Connect
-- Portfolio: *(coming soon)*  
-- LinkedIn: *(drop your link)*
+- LinkedIn: https://www.linkedin.com/in/vansh-983217253/  
+- Portfolio: *(coming soon)*
 
 ---
