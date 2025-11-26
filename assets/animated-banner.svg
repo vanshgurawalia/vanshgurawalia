@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="900" height="150" viewBox="0 0 900 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Vansh - Motion Designer">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="40%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="150" rx="16" fill="#08080a"/>
+
+  <!-- moving gradient text -->
+  <g transform="translate(36,40)">
+    <text font-family="Inter, Arial" font-size="46" fill="url(#g1)" filter="url(#glow)">
+      <tspan x="0" y="52">Vansh Gurawalia</tspan>
+    </text>
+
+    <text font-family="Inter, Arial" font-size="16" fill="#9aa0a6" y="82">
+      <tspan x="0" y="82">code poet • c++ • ai/ml • motion graphics</tspan>
+    </text>
+  </g>
+
+  <!-- animated underline bar -->
+  <g transform="translate(36,106)">
+    <rect width="820" height="8" rx="4" fill="#111214"/>
+    <rect width="200" height="8" rx="4" fill="url(#g1)">
+      <animate attributeName="x" from="-220" to="820" dur="4.2s" repeatCount="indefinite" />
+      <animate attributeName="width" values="160;260;160" dur="4.2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- drifting particles -->
+  <g>
+    <circle cx="820" cy="28" r="6" fill="#7c3aed" opacity="0.9">
+      <animate attributeName="cx" values="820;760;700;820" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="28;40;22;28" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;0.3;0.9" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="760" cy="52" r="4" fill="#06b6d4" opacity="0.85">
+      <animate attributeName="cx" values="760;680;740;760" dur="5.1s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="52;36;58;52" dur="5.1s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
+
