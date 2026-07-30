@@ -51,6 +51,11 @@ when i'm not coding, i'm probably in after effects or thinking about game engine
 
 ### 🗂️ projects
 
+**[CS:GO Round Winner Predictor](https://github.com/vanshgurawalia/csgo-round-predictor)**
+Predicts the probability of CT vs Terrorist winning a round in CS:GO, given a mid-round game state (money, players alive, HP/armor, bomb status, etc.). Built as an ML portfolio project combining tabular classification with domain intuition from competitive FPS games.
+
+<br/>
+
 **[FakeShield — Fake News Detector](https://github.com/vanshgurawalia/fake-news-detector)**  
 BERT-based NLP classifier that detects fake news in real time. built a full Streamlit UI around it with confidence gauges, probability charts, and pattern detection. uses HuggingFace transformers under the hood.  
 `python` `bert` `streamlit` `nlp` `huggingface`
