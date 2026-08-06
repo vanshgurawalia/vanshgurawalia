@@ -118,7 +118,6 @@ C++ utility that parses files, extracts metadata, and surfaces structure and sta
 <img src="https://raw.githubusercontent.com/vanshgurawalia/vanshgurawalia/output/github-contribution-grid-snake.svg" width="90%"/>
 </div>
 
-> this one animates itself — eats your contribution graph. needs a tiny one-time GitHub Actions setup (I've given you the workflow file below).
 
 ---
 
