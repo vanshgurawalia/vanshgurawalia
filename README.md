@@ -75,6 +75,10 @@ when i'm not coding, i'm probably in after effects, or locked into a Valorant ra
 
 ### 🗂️ projects
 
+**[Imaginate — AI Image Generator](https://github.com/vanshgurawalia/Imaginate)** · [live demo](https://imaginate-1.streamlit.app/)  
+LangChain-powered pipeline that expands rough ideas into detailed prompts using Gemini, then generates images via Hugging Face's Stable Diffusion API. Also exposed as an MCP tool, so AI agents like Claude Desktop can call it directly. Built a glassmorphic Streamlit UI on top.
+`python` `langchain` `gemini` `huggingface` `streamlit` `mcp`
+
 **[CS:GO Round Winner Predictor](https://github.com/vanshgurawalia/csgo-round-predictor)** · [live demo](https://csgo-round-predictor-10.streamlit.app/)  
 Random Forest classifier trained on 122K+ rows predicting CT vs Terrorist round outcomes from mid-round game state. CS2-themed Streamlit UI, currently being wrapped in a FastAPI service layer.  
 `python` `scikit-learn` `pandas` `streamlit` `fastapi` `random-forest`
