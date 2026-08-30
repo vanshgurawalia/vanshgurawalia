@@ -11,7 +11,7 @@ I'm currently looking for remote roles in ML/AI, data science, or software engin
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-- 🔭 Recently built [Real-Time Object Detector](https://github.com/vanshgurawalia/object-detector) (SSD MobileNet V2 + OpenCV), [CS:GO Round Winner Predictor](https://github.com/vanshgurawalia/csgo-round-predictor), and [FakeShield](https://github.com/vanshgurawalia/fake-news-detector)
+- 🔭 Recently built [Real-Time Object Detector](https://github.com/vanshgurawalia/object-detector) (SSD MobileNet V2 + OpenCV), [CS:GO Round Winner Predictor](https://github.com/vanshgurawalia/csgo-round-predictor), and [Imaginate](https://github.com/vanshgurawalia/Imaginate)
 - 🌱 Currently sharpening DSA + exploring transformer fine-tuning
 - 🎬 Outside of code, I make motion graphics content that's crossed 1M+ views
 
