@@ -15,4 +15,5 @@ I'm currently looking for remote roles in ML/AI, data science, or software engin
 - 🌱 Currently sharpening DSA + exploring transformer fine-tuning
 - 🎬 Outside of code, I make motion graphics content that's crossed 1M+ views
 
-**Find me:** [LinkedIn](https://www.linkedin.com/in/vansh-983217253/) · [LeetCode](https://leetcode.com/u/vanshh10/) · [YouTube](https://www.youtube.com/@pixelperplex-10)
+**Find me:** [LinkedIn](https://www.linkedin.com/in/vansh-983217253/) · [LeetCode](https://leetcode.com/u/vanshh10/) · [YouTube](https://www.youtube.com/@pixelperplex-10) · [Instagram](https://www.instagram.com/pixelperplex/?hl=en)
+
